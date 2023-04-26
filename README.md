@@ -56,6 +56,11 @@ possible.
 If you want to share information about your project(s), please send the
 relevant information about the project(s) to [luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it).
 
+### Join UD4HL
+
+If you want to join the discussion group and be informed about the upcoming
+meetings, please fill in [this form](https://docs.google.com/forms/d/13zmwGSgoIRtDZDBv8GKMS8wP6F_HLJGzAxz-kT3iIKQ)!
+
 ## Contacts
 
 - **Silvia Luraghi**: [luraghi@unipv.it](mailto:luraghi@unipv.it)
