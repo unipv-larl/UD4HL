@@ -42,7 +42,7 @@ cross-linguistic data in historical linguistics**](https://www.slav.uni-heidelbe
 organized by Robert Forkel, Gerard Jäger and Johann-Mattis List at the
 [**International Conference on Historical Linguistics** (ICHL26, 4-8 September 2023)](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/index.html).
 
-You can download the presentation from (here)[https://github.com/unipv-larl/UD4HL/blob/main/ICHL_presentation.pdf].
+You can download the **ICHL26 presentation** from [here](https://github.com/unipv-larl/UD4HL/blob/main/ICHL_presentation.pdf).
 
 ## How to take part in the discussion
 
